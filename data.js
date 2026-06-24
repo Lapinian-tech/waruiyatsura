@@ -1,1 +1,0 @@
-window.CRIME_DATA = [];
